@@ -60,13 +60,14 @@ while (input) != 0:
         subtraendo = input("Insira o subtraendo: \n")
         resposta_diferenca = minus(int(minuendo), int(subtraendo))
         print("O resultado da diferença é: %s." % (resposta_diferenca))
+    # Multiplicação:
     if entrada_usuario == 4:
         print("Você escolheu multiplicação!\n")
         fator1 = input("Digite o primeiro fator: \n")
         fator2 = input("Digite o segundo fator: \n")
         resposta_times = times(int(fator1), int(fator2))
         print("O produto da multiplicação é: %s" % (resposta_times))
-
+    # Divisão:
     if entrada_usuario == 5:
         print("Você escolheu divisão!")
         dividendo = input("Insira um dividendo: \n")
