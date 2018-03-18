@@ -14,9 +14,9 @@ picture: assets/images/profile.jpg
 # and specify source (external or local).
 resume: true
 resume-external: true
-resume-url: https://google.com/?q=my+resume
+resume-url: http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K2752599J5
 
-url: https://koppl.in/indigo
+url: https://guiemi.github.io
 # your url: http://USERNAME.github.io
 
 permalink: /:title/
@@ -39,18 +39,18 @@ twitter: mytwitter
 # google: mygoogle
 # instagram: myinstagram
 # pinterest: mypinterest
-# linkedin: mylinkedin
+linkedin: guiemi
 # youtube: myyoutube
 # spotify: myspotify
-github: mygithub
+github: guiemi
 # lastfm: mylastfm
 # stackoverflow: 7044681/mystackoverflow
-# quora: userquora
+quora: guiemi
 # reddit: username
 medium: medium
 # vimeo: myvimeo
 # lanyrd: mylanyrd
-email: myemail@gmail.com
+email: guiemi.teixeira@gmail.com
 
 authors:
     johndoe:
