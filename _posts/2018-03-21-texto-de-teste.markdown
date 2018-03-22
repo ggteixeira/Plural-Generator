@@ -1,7 +1,7 @@
 ---
-title: "Elementos comuns"
+title: "Post do Guilherme (Teste)"
 layout: post
-date: 2016-02-24 22:44
+date: 2018-03-21 13:30
 image: /assets/images/markdown.jpg
 headerImage: false
 tag:
@@ -9,8 +9,9 @@ tag:
 - elements
 star: true
 category: blog
-author: johndoe
+author: guilherme
 description: Markdown summary with different options
 ---
 
-TESTEEEEE
+**Teste de autor.**
+teste, mano.

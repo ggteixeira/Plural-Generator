@@ -1,6 +1,6 @@
 # main text of home
-name: Guilherme
-bio: Queijo fitness.
+name: Guilherme Teixeira de Freitas
+bio: Estudante de Linguística.
 
 # twitter summary info
 description: Um microblog sobre Linguística e outras feitiçarias.
@@ -34,8 +34,8 @@ disqus:
   categories: [blog, project] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
-facebook: myfacebook
-twitter: mytwitter
+# facebook: myfacebook
+twitter: guiemiquestion
 # google: mygoogle
 # instagram: myinstagram
 # pinterest: mypinterest
@@ -45,20 +45,20 @@ linkedin: guiemi
 github: guiemi
 # lastfm: mylastfm
 # stackoverflow: 7044681/mystackoverflow
-quora: guiemi
+quora: Guilherme-Teixeira-de-Freitas
 # reddit: username
-medium: medium
+medium: guiemi
 # vimeo: myvimeo
 # lanyrd: mylanyrd
 email: guiemi.teixeira@gmail.com
 
 authors:
-    johndoe:
-        name: John Doe
+    guilherme: #Como eu altero isso?
+        name: Guilherme Freitas
         bio: A Man who travels the world eating noodles
         external-image: false
         picture: assets/images/profile.jpg
-        twitter: johndoe
+        twitter: guiemiquestion
     jamesfoster:
         name: James Foster
         bio: A Man who develops software with coffee
