@@ -1,7 +1,4 @@
-
-# coding: utf-8
-
-# Módulos
+# Módulos:
 
 
 def percentagem(lido=input, total=input, multiplica=100):
