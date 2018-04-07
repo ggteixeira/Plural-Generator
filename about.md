@@ -6,19 +6,17 @@ layout: page
 
 <p> Em construção.</p>
 
-<p> Seção em construção, e o pedreiro é de 1ª viagem.</p>
+<h2> Habilidades </h2>
 
-<h2>Skills</h2>
+- Python (Aprendendo)
 
 <ul class="skill-list">
-	<li>Git</li>
-	<li>Python</li>
+
 </ul>
 
-<h2>Projects</h2>
+<h2>Projetos no Github </h2>
 
 <ul>
-	<li><a href="https://github.com/">Lorem Lorem</a></li>
-	<li><a href="https://github.com/">Ipsum Dolor</a></li>
-	<li><a href="https://github.com/">Dolor Lorem</a></li>
+	<li><a href="https://github.com/guiemi/contador-de-laudas"> Contador de Laudas </a></li>
+	<li><a href="https://github.com/guiemi/modular-calc"> Modular Calc </a></li>
 </ul>
