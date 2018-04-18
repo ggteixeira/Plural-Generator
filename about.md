@@ -8,7 +8,7 @@ layout: page
 
 <h2> Habilidades </h2>
 
-- Python (Aprendendo)
+- Python 3 (Aprendendo)
 
 <ul class="skill-list">
 
