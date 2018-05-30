@@ -4,4 +4,4 @@ Ainda estou sob construção e o construtor ainda não atingiu o nível 33, ent�
 
 Aguarde, pois novidades virão em breve!
 
-Namárië!
+Nai i eleni siluvar or tielya. Namárië!
