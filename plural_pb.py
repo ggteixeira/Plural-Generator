@@ -22,5 +22,4 @@ plural(palavra)
 acentuadas = ["á", "â", "é", "ê", "í", "ó", "ô", "ú"]
 vogais = ["a", "a", "e", "e", "i", "o", "o", "u"]
 
-# Isto é um teste de commit.
-# Se o teste der certo, este arquivo não estará no repo da modular_calc
+
