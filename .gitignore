@@ -1,0 +1,15 @@
+# Ignorando todos os arquivos .directory gerados pelo Dolphin
+
+*.directory
+*.pdf
+*.vscode
+*.json
+*.idea
+*.xml
+tempCodeRunnerFile.py
+# Lembrando que há outro processo para ignorar os itens já criados e commitados:
+
+# git rm -r --cached .
+# git add .
+# git commit -m "Limpeza de arquivos já criados e commitados"
+# git push
