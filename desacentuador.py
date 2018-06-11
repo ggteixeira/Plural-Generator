@@ -14,14 +14,3 @@ def desacento(palavra):
             index_acento = palavra.index(letra)
             palavra = palavra.replace(acentuada, vogais[index_desacento])
     return print(palavra)
-desacento("inglêses")
-
-'''
-acentos = {
-    "a": ["á", "â"],
-    "e": ["é", "ê"],
-    "i": ["í"],
-    "o": ["ó", "ô"],
-    "u": ["ú"]
-}
-'''
