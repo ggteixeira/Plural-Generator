@@ -6,6 +6,7 @@
 *.json
 *.idea
 *.xml
+*.pyc
 tempCodeRunnerFile.py
 # Lembrando que há outro processo para ignorar os itens já criados e commitados:
 
