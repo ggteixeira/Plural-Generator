@@ -13,12 +13,11 @@ s = ["es"]
 u = ["s"]
 z = ["es"]
 
-# Casos especiais:
-# Segundo HUBACK (2017), plurais terminados em
-# "ão" ("avião" / "aviões"), em
-# "-l" ("anel" /"anéis") e em 
-# ditongo em "u" ("chapéu"/ "chapéus")
-# constituem um grupo de plurais irregulares em PB.
+''' Casos especiais:
+Segundo HUBACK (2017), plurais terminados em "ão" ("avião" / "aviões"), 
+em "-l" ("anel" /"anéis") e em ditongo em "u" ("chapéu"/ "chapéus")
+constituem um grupo de plurais irregulares em PB.
+'''
 
 l = ["es", "is"]
 ão = ["ões"]
