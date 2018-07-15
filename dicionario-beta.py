@@ -10,4 +10,8 @@ print(plurais["s"][1])
 
 # Dicionários são melhores que listas neste programa!
 
+<<<<<<< HEAD
 # Isto é uma atualização na branch master
+=======
+# DEV BRANCH: comentário novo de teste
+>>>>>>> dev
