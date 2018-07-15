@@ -10,8 +10,7 @@ print(plurais["s"][1])
 
 # Dicionários são melhores que listas neste programa!
 
-# Nota: este dicionário beta precisa ir para um branch de itens que estão em
-# beta
+# Este dicionário precisa dar um merge com sucesso.
 
 # Colocando este dicionário na branch dev.
 # Criei a dev. Agora estou atualizando o arquivo.
