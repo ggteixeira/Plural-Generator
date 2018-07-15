@@ -15,3 +15,5 @@ print(plurais["s"][1])
 
 # Colocando este dicionário na branch dev.
 # Criei a dev. Agora estou atualizando o arquivo.
+# Fazendo novas alterações, pois o git não colocou o arquivo na lista pra dar
+# push
