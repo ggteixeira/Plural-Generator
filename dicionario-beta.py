@@ -12,3 +12,6 @@ print(plurais["s"][1])
 
 # Nota: este dicionário beta precisa ir para um branch de itens que estão em
 # beta
+
+# Colocando este dicionário na branch dev.
+# Criei a dev. Agora estou atualizando o arquivo.
