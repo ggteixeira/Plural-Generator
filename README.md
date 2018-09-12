@@ -10,7 +10,7 @@ Foi construída uma função chamada "desacentuador.py", responsável por remove
 
 **7 de julho de 2018:**
 
-A lista inicial de plurais foi ligeiramente reorganizada com base em [HUBACK (2017)](https://revistas.ufpr.br/abralin/article/view/52337).
+A lista inicial de plurais foi [ligeiramente reorganizada](https://github.com/guiemi/plural-generator/commit/fa6e0f3c97cc690e254d18a323b48ee08bf1149b#diff-3d3943198c6294e846e0694542384a39) com base em [HUBACK (2017)](https://revistas.ufpr.br/abralin/article/view/52337).
 
 ------
 
